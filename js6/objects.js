@@ -54,7 +54,7 @@ const User1={
 console.log(User1);
 //we use freez to freez some particular object
 Object.freeze(User1)
-// we use to freez an object to further manuilapation
+// we use to freez an object to restrict manuilapation
 
 //Use of singleton object
 
